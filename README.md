@@ -1,2 +1,8 @@
-# ML_Library_Notes
-Notes related to machine learning libraries.
+# 머신러닝 라이브러리 노트정리
+
+머신러닝 라이브러리에 대한 기본적인 구조와 코딩방법들을 모아서 참고용으로 사용하려고 만든 저장소입니다.
+
+실제로 라이브러리를 사용해 만든 딥러닝 예제나 코드는 따로 저장소를 만들어 관리할 예정입니다.
+
+## 포함된 내용
+- 텐서플로 (TensorFlow)
